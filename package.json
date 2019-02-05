@@ -1,0 +1,15 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "Customer View",
+  "main": "bamazon.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Seth",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^6.2.2",
+    "mysql": "^2.16.0"
+  }
+}
